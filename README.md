@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+
+bottom image
+![bottom](https://github.com/sayrabano/tootlip/assets/87492998/d08de722-53ff-4ae3-b53b-4d70cc737790)
+
+
+right image
+![right](https://github.com/sayrabano/tootlip/assets/87492998/feceb42d-ba01-4e1f-8ead-7044798c705e)
+
+
+top image
+# Gettin![Uploading top.png…]()
+
+left image
+![Uploading left.PNG…]()
+
+g Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
