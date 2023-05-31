@@ -1,0 +1,147 @@
+/* styling for home body or background */
+
+body {
+ 
+  background-image: radial-gradient(650px circle at 0% 0%,
+      hsl(219, 51%, 80%) 15%,
+      hsl(218, 25%, 57%) 35%,
+      hsl(58, 55%, 75%) 75%,
+      hsl(321, 50%, 80%) 80%,
+      transparent 100%),
+    radial-gradient(1250px circle at 100% 100%,
+      hsl(218, 24%, 55%) 15%,
+      hsl(218, 66%, 75%) 35%,
+      hsl(219, 23%, 64%) 75%,
+      hsl(220, 11%, 68%) 80%,
+      transparent 100%);
+}
+.App{
+  width: 99vw;
+  height: 99vh;
+
+
+
+}
+/* styling to buttons */
+
+.btn-position{
+  margin-left: 175%;
+  width: 100%;
+  margin-left: none;
+  height: 10%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.btn{
+  border: 3px solid rgb(188, 212, 238);
+  border-radius: 10px;
+  background: rgba(255, 255, 255,0.2);
+  color: rgb(234, 77, 77);
+}
+
+
+
+#button-container{
+ align-items: center;
+  width: 50%;
+  height: 30%;
+  margin-left: 39.5%;
+  margin-top: 20%;
+ 
+}
+
+
+/* styling to hovering on button */
+.hover-btn{
+  height: 50%;
+  width: 50%;
+  font-size: 1rem;
+   display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(176, 220, 220);
+ 
+
+}
+
+
+
+
+
+/* style for top position button */
+.top{
+  height: 30%;
+  width: 30%;
+  margin-top: -28%;
+  margin-left: 8%;
+  padding: 8px 14px 18px 10px;
+  border: 2px solid rgb(127, 129, 216);
+  border-radius: 10px;
+  font-size: 1rem;
+  background-color: rgba(23, 15, 112, 0.1);
+  text-align: center;
+  
+}
+
+
+
+/* style for right postion button */
+.right{
+  height: 26%;
+  width: 30%;
+  margin-top: -10%;
+  margin-left: 70%;
+  padding: 8px 10px 15px 10px;
+  border: 2px solid rgb(127, 129, 216);
+  border-radius: 10px;
+  font-size: 1rem;
+  background-color: rgba(23, 15, 112, 0.1);
+  text-align: center;
+}
+
+/* style for bottom postion button */
+
+.bottom{
+  height: 30%;
+  width: 35%;
+  margin-top: 5%;
+  margin-left: 8%;
+  padding: 8px 10px 15px 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  font-size: 1rem;
+  background-color: rgba(104, 23, 227, 0.1);
+  text-align: center;
+}
+
+
+/* style for left postion button */
+.left{
+  
+  height: 30%;
+  width: 30%;
+  margin-top: -12%;
+  margin-left: -50%;
+  padding: 9px 14px 18px 10px;
+  border: 2px solid rgb(127, 129, 216);
+  border-radius: 10px;
+  font-size: 1rem;
+  background-color: rgba(90, 48, 62, 0.1);
+  text-align: center;
+}
+
+/* style for by default active {left} button */
+.active{
+  background-color:rgba(215, 136, 136, 0.3) ;
+}
+
+/* style for navbar */
+.navbar{
+
+    height: 90px;
+    margin-top: 10px;
+    margin-left: 0px;
+    opacity: .9;
+}
